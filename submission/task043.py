@@ -1,0 +1,1 @@
+p=lambda d:[r.__setitem__(j,2)for r in d[1:]for j in range(len(d[0])-1)if r[-1]*d[0][j]==25]and d
