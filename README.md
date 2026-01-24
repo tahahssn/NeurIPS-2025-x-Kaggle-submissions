@@ -94,4 +94,4 @@ Please check individual files for specific usage notes if applicable.
 ## ✨ Final Note
 
 This was an incredible learning journey — and **just the beginning**.
-More competitions, research, and open-source contributions coming soon 🚀
+More competitions, research, and open-source contributions coming soon...
